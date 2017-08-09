@@ -1,0 +1,10 @@
+LabelName	LabelNumber	NumberOfPB	NumberOfPixel
+Text	0	28	364777
+Bold Text	1	1	4089
+Graphics	2	0	0
+Logo	3	1	94853
+Stamp	4	1	7173
+Headers	5	6	32952
+Head Line	6	0	0
+Signature	7	0	0
+Noise	8	1	3735
