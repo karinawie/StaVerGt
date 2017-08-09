@@ -7,6 +7,8 @@ The dataset consists of 425 scanned images in $600$, $300$, and $200$ $dpi$ reso
 Out of these 425 images, 344 images contain non overlapping regions. 
 Anveshak is used to annotate these 344 images of 300 dpi resolution.
 
+Original Dataset at http://madm.dfki.de/downloads-ds-staver
+
 citation
 
 @article{DBLP:journals/ijdar/Dey0S16,
@@ -26,4 +28,4 @@ citation
   bibsource = {dblp computer science bibliography, http://dblp.org}
 }
 
-Original Dataset at http://madm.dfki.de/downloads-ds-staver
+
